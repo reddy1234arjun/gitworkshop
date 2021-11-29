@@ -34,3 +34,12 @@ sno|Name
 2|nag
 3|guru
 
+EMOJICODE::kissing:
+:kissing:
+
+ :heart_eyes:
+
+sno|code
+------|----
+:kissing:|kissingcode
+
